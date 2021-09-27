@@ -1,87 +1,25 @@
-# Contribution	License	Agreement
+# Deephaven Individual Contributor License Agreement
 
-This	Contribution	License	Agreement	(“Agreement”)	is	agreed	to	by	the	party	signing	below	(“You”),	
-and	conveys	certain	license	rights	to	Microsoft	Corporation and	its	affiliates	(“Microsoft”) for	Your
-contributions	to Microsoft open	source	projects.	This	Agreement	is	effective	as	of	the	latest	signature	
-date	below.	
+In order to clarify the intellectual property license granted with Contributions from any person or entity, Deephaven Data Labs ("Deephaven") must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Deephaven; it does not change your rights to use your own Contributions for any other purpose.
 
-1.	Definitions.	
-“Code”	means	the	computer	software	code,	whether	in	human-readable	or	machine-executable	form,	
-that	is	delivered	by	You	to	Microsoft	under	this	Agreement.	
-“Project”	means	any	of	the	projects	owned	or	managed	by	Microsoft	in	which	software	is	offered	under	
-a	license	approved	by	the	Open	Source	Initiative (OSI) (www.opensource.org) and documentation
-offered	under	an	OSI	or	a	Creative	Commons	license	(https://creativecommons.org/licenses).	
-“Submit”	is	the	act	of	uploading,	submitting,	transmitting,	or	distributing	code	or	other	content	to	any	
-Project,	including	but	not	limited	to	communication	on	electronic	mailing	lists,	source	code	control	
-systems,	and	issue	tracking	systems	that	are	managed	by,	or on	behalf	of,	the	Project	for	the	purpose	of	
-discussing	and	improving	that	Project,	but	excluding	communication	that	is	conspicuously	marked	or	
-otherwise	designated	in	writing	by	You	as	“Not	a	Submission.”	
-“Submission”	means	the	Code	and	any	other	copyrightable	material	Submitted	by	You,	including	any	
-associated	comments and	documentation.	
+You accept and agree to the following terms and conditions for Your present and future Contributions submitted to Deephaven. Except for the license granted herein to Deephaven and recipients of software distributed by Deephaven, You reserve all right, title, and interest in and to Your Contributions.
 
-2.	Your	Submission.	You	must agree	to	the	terms	of this	Agreement	before	making	a	Submission	to	any	
-Project.	This	Agreement	covers	any	and	all	Submissions	that	You,	now	or	in	the	future	(except	as	
-described	in	Section	4 below),	Submit	to	any	Project.	
+1. Definitions.
 
-3. Originality	of	Work.	You	represent	that	each	of	Your	Submissions	is	entirely	Your	original	work.	
-Should	You	wish	to	Submit	materials	that	are	not	Your	original	work,	You	may	Submit	them	separately	
-to	the	Project if	You	(a) retain	all	copyright	and	license	information	that	was	in	the	materials	as	You	
-received	them,	(b) in	the	description	accompanying	Your	Submission,	include	the	phrase	“Submission	
-containing	materials	of	a	third	party:”	followed	by	the	names	of	the	third	party	and	any	licenses	or	other	
-restrictions	of	which	You	are	aware,	and	(c) follow	any	other	instructions	in	the	Project’s	written	
-guidelines	concerning Submissions.	
+    "You" (or "Your") shall mean the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with Deephaven. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-4.	Your	Employer.	References	to	“employer”	in	this	Agreement	include	Your	employer	or	anyone	else	
-for	whom	You	are	acting	in	making	Your	Submission,	e.g.	as	a	contractor,	vendor,	or	agent.	If	Your	
-Submission	is	made	in	the	course	of	Your	work	for	an	employer	or	Your	employer	has	intellectual	
-property	rights	in	Your	Submission	by	contract	or	applicable	law,	You	must	secure	permission	from	Your	
-employer	to	make	the	Submission before	signing	this	Agreement.	In	that	case,	the	term	“You”	in	this	
-Agreement	will	refer	to	You	and	the	employer	collectively.	If You	change	employers in	the	future and	
-desire	to	Submit	additional	Submissions for	the	new	employer,	then	You	agree	to	sign	a	new	Agreement	
-and	secure	permission	from	the	new	employer	before	Submitting	those	Submissions.	
+    "Contribution" shall mean any original work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to Deephaven for inclusion in, or documentation of, any of the products owned or managed by Deephaven (the "Work"). For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to Deephaven or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Deephaven for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
 
-5.	Licenses.	
-a.	Copyright	License.	You	grant	Microsoft,	and	those	who	receive	the	Submission directly	or	
-indirectly	from	Microsoft,	a	perpetual,	worldwide,	non-exclusive,	royalty-free,	irrevocable	license	in	the	
-Submission	to	reproduce,	prepare	derivative	works	of,	publicly	display,	publicly	perform,	and	distribute	
-the	Submission	and	such	derivative	works,	and	to	sublicense	any	or	all	of	the	foregoing	rights	to	third	
-parties.	
-b.	Patent	License.	You	grant	Microsoft,	and	those	who	receive	the	Submission directly	or	
-indirectly	from	Microsoft,	a	perpetual,	worldwide,	non-exclusive,	royalty-free,	irrevocable	license	under	
-Your	patent	claims	that	are	necessarily	infringed	by	the	Submission	or	the	combination	of	the	
-Submission	with	the	Project	to	which	it	was	Submitted	to	make,	have	made,	use,	offer	to	sell,	sell	and	
-import	or	otherwise	dispose	of	the	Submission	alone	or	with	the	Project.	
-c.	Other	Rights	Reserved.	Each	party	reserves	all	rights	not	expressly	granted	in	this	Agreement.	
-No	additional	licenses	or	rights	whatsoever	(including,	without	limitation,	any	implied	licenses)	are	
-granted	by	implication,	exhaustion,	estoppel	or	otherwise.	
+2. Grant of Copyright License. Subject to the terms and conditions of this Agreement, You hereby grant to Deephaven and to recipients of software distributed by Deephaven a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
 
-6.	Representations	and	Warranties.	You	represent	that	You	are	legally	entitled	to	grant	the	above	
-licenses.	You	represent	that	each	of	Your	Submissions	is	entirely	Your	original	work (except	as	You	may	
-have	disclosed under	Section 3). You	represent	that	You	have	secured	permission	from Your employer	to	
-make	the	Submission in	cases	where	Your	Submission	is	made	in	the	course	of	Your	work	for	Your	
-employer	or	Your	employer	has	intellectual	property	rights	in	Your	Submission	by	contract	or	applicable	
-law. If	You	are	signing	this	Agreement	on	behalf	of	Your	employer,	You	represent	and	warrant	that	You	
-have	the	necessary	authority	to	bind	the	listed	employer	to	the	obligations	contained	in	this	Agreement.	
-You	are	not	expected	to	provide	support	for	Your	Submission,	unless	You	choose	to	do	so.	UNLESS	
-REQUIRED	BY	APPLICABLE	LAW	OR	AGREED	TO	IN	WRITING,	AND	EXCEPT	FOR	THE	WARRANTIES	
-EXPRESSLY	STATED	IN	SECTIONS 3,	4,	AND	6,	THE	SUBMISSION	PROVIDED	UNDER	THIS	AGREEMENT	IS	
-PROVIDED	WITHOUT	WARRANTY	OF	ANY	KIND,	INCLUDING, BUT	NOT	LIMITED	TO, ANY	WARRANTY	OF	
-NONINFRINGEMENT, MERCHANTABILITY, OR	FITNESS	FOR	A	PARTICULAR	PURPOSE.	
+3. Grant of Patent License. Subject to the terms and conditions of this Agreement, You hereby grant to Deephaven and to recipients of software distributed by Deephaven a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by You that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted. If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this Agreement for that Contribution or Work shall terminate as of the date such litigation is filed.
 
-7.	Notice	to	Microsoft.	You	agree	to	notify	Microsoft	in	writing	of	any	facts	or	circumstances	of	which	
-You	later	become	aware	that	would	make	Your	representations	in	this	Agreement	inaccurate	in	any	
-respect.	
+4. You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to Deephaven, or that your employer has executed a separate Corporate CLA with Deephaven.
 
-8.	Information	about	Submissions. You	agree that	contributions	to	Projects	and	information	about	
-contributions	may	be	maintained	indefinitely	and	disclosed	publicly,	including	Your	name	and	other	
-information	that	You	submit	with	Your	Submission.		
+5. You represent that each of Your Contributions is Your original creation (see section 7 for submissions on behalf of others). You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
 
-9.	Governing	Law/Jurisdiction.	This	Agreement	is	governed	by	the	laws	of	the	State	of	Washington,	and	
-the	parties	consent	to	exclusive	jurisdiction	and	venue	in	the	federal	courts	sitting	in	King	County,	
-Washington,	unless no	federal	subject	matter	jurisdiction	exists,	in	which	case	the	parties	consent	to	
-exclusive	jurisdiction	and	venue	in	the	Superior	Court	of	King	County,	Washington.	The	parties	waive	all	
-defenses	of	lack	of	personal	jurisdiction	and	forum	non-conveniens.	
+6. You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON- INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
-10.	Entire	Agreement/Assignment.	This	Agreement	is	the	entire	agreement	between	the	parties,	and	
-supersedes	any	and	all	prior	agreements,	understandings	or	communications,	written	or	oral,	between	
-the	parties	relating	to	the	subject	matter	hereof.		This Agreement	may	be	assigned	by	Microsoft.
+7. Should You wish to submit work that is not Your original creation, You may submit it to Deephaven separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
+
+8. You agree to notify Deephaven of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
