@@ -14,6 +14,7 @@ To enable the GitHub Action to manage Deephaven CLA compliance:
     cd <your_project>
     mkdir -p .github/workflows/
     curl https://raw.githubusercontent.com/deephaven/cla/main/actions/cla.yml > .github/workflows/cla.yml
+    git add .github/workflows/cla.yml
     ```
 
 2. Set `PERSONAL_ACCESS_TOKEN`
