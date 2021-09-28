@@ -17,13 +17,7 @@ To enable the GitHub Action to manage Deephaven CLA compliance:
     git add .github/workflows/cla.yml
     ```
 
-2. Set `PERSONAL_ACCESS_TOKEN`
-
-    A personal access token must be set up to allow this bot to commit to the CLA repository.  To do this:
-    a) Create a personal access token with repo scope
-    b) Manually add the token to your repository's secrets as `PERSONAL_ACCESS_TOKEN`
-
-3. Edit the `allowlist`
+2. Edit the `allowlist`
 
     If a GitHub username is included in the `allowlist`, they will not be required to sign the CLA.  This is useful for allowing bots to contribute without a CLA.  The `allowlist` can be set in the GitHub Action (`cla.yml`).
 
