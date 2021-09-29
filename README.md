@@ -21,5 +21,13 @@ To enable the GitHub Action to manage Deephaven CLA compliance:
 
     If a GitHub username is included in the `allowlist`, they will not be required to sign the CLA.  This is useful for allowing bots to contribute without a CLA.  The `allowlist` can be set in the GitHub Action (`cla.yml`).
 
+3. Request access for your repo to `CLA_PERSONAL_ACCESS_TOKEN`
+
+    The action requires access to the `CLA_PERSONAL_ACCESS_TOKEN` organizational secret.  You must request access to this secret for your repository.  If the repository does not have access to the secret, the action will fail with an error that looks like:
+
+    ```
+    Error: Parameter token or opts.auth is required
+    ```
+
 **The main branch of this repository must not be protected.**
 
