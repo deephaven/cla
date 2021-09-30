@@ -47,6 +47,14 @@
       "created_at": "2021-09-30T20:55:20Z",
       "repoId": 331057892,
       "pullRequestNo": 1374
+    },
+    {
+      "name": "nbauernfeind",
+      "id": 1030443,
+      "comment_id": 931711800,
+      "created_at": "2021-09-30T21:17:43Z",
+      "repoId": 331057892,
+      "pullRequestNo": 1345
     }
   ]
 }
