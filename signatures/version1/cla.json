@@ -87,6 +87,14 @@
       "created_at": "2021-10-05T03:52:37Z",
       "repoId": 331057892,
       "pullRequestNo": 1387
+    },
+    {
+      "name": "kosak",
+      "id": 720660,
+      "comment_id": 934620549,
+      "created_at": "2021-10-05T17:36:40Z",
+      "repoId": 331057892,
+      "pullRequestNo": 1315
     }
   ]
 }
